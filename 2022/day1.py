@@ -15,3 +15,5 @@ elves.sort(reverse=True)
 top3 = sum(elves[0:3])
 
 print('part 2: ', top3)
+
+f.close()
